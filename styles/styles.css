@@ -235,6 +235,9 @@ padding: 0;
   column-gap: 24px;
   justify-content: center;
 }
+/* .pro-image {
+background-image: ;  
+} */
 
 .projects-items {
   list-style: none;
